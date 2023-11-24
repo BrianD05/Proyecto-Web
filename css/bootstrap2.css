@@ -1,0 +1,51 @@
+.navbar-expand-lg{
+	background: black;
+	
+}
+#destino{
+	text-align:center;
+	color:rgb(168, 50, 50);
+
+}
+#info{
+	font-size: 20px
+	
+}
+#viaje{
+	text-align: center;
+	color:rgb(70, 50, 168);
+}
+.form{
+	position:relative;
+	width:500px;
+	height:600px;
+	padding-left: 20px;
+	padding-top: 15px;
+	background-color:#e5dfcd;
+	border-radius: 20px;
+	margin:auto;
+}
+input[type=text],[type=email]{
+	width:470px;
+	height:35px;
+	font: 14px normal normal uppercase helvetica, arial, serif;  
+}
+input[type=submit]{
+	line-height: 42px;
+    padding-left: 30px;
+    padding-right: 60px;
+    border-radius: 25px;
+    border: none;
+    color: #fff;
+    display: inline-block;
+    font-weight: 500;
+    position: relative;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    text-transform: uppercase;
+    position: relative;
+    background-image:-webkit-linear-gradient(0deg, #b21aff 0%, #732bde 100%)
+}
